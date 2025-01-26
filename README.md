@@ -2,7 +2,7 @@
 Welcome to my little corner of GitHub!  
 
 ## 🚀 About Me  
-I’m a **Czech student** currently studying engineering in **France** at *Phelma*. My journey revolves around building projects that merge **technology, design, and creativity** to create innovative solutions.  
+I’m a **Czech student** currently studying engineering in **France** at *Phelma*. 
 
 ## 🌟 My Interests  
 - 💻 Web development  
